@@ -1,0 +1,5 @@
+{
+  "type": "yaml",
+  "data": "name: Иван Иванов\nskills:\n  - Java\n  - SQL\n  - Git\nrelation:\n  - name: Петр\n    status: брат\n  - name: Анастасия\n    status: сестра",
+  "path": "relation/[1]/name"
+}

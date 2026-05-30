@@ -6,8 +6,8 @@ import data.extractor.DataExtractorFactory;
 public class Main {
     public static void main(String[] args) {
         // Убедитесь, что файлы лежат в src/main/resources
-        String jsonFile = "data.json";
-        String xmlFile = "data.xml";
+        String jsonFile = "request-json.json";
+        String xmlFile = "request-xml.json";
 
         try {
             // JSON

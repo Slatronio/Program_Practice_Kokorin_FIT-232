@@ -1,0 +1,1 @@
+curl.exe -X POST http://localhost:8080/api/data/extract -H "Content-Type: application/json" -d @C:\Users\slavy\OpenideProjects\Program_Practice_Kokorin_FIT-232\src\main\resources\request-yaml.json

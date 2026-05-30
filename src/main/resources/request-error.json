@@ -1,0 +1,5 @@
+{
+  "type": "csv",
+  "data": "id,name\n1,Test User",
+  "path": "name"
+}

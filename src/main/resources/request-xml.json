@@ -1,0 +1,5 @@
+{
+    "type": "xml",
+    "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><root><name>Иван Иванов</name><relation><name>Петр</name><status>брат</status></relation><relation><name>Анастасия</name><status>сестра</status></relation></root>",
+    "path": "relation/[1]/name"
+}

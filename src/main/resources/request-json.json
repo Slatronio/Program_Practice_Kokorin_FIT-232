@@ -1,0 +1,5 @@
+{
+  "type": "json",
+  "data": "{\"name\":\"Иван Иванов\",\"relation\":[{\"name\":\"Петр\"},{\"name\":\"Анастасия\"}]}",
+  "path": "relation/[1]/name"
+}
